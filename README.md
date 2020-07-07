@@ -4,8 +4,8 @@ NICKNAME: jiroshin
 LOCATION: Tokyo or Hiroshima, JAPAN
 
 ## What I Like
-Vim, Go, Flutter, Ruby on Rails  
-Git, tmux, Scrapbox, tig  
+Vim, Go, Flutter, Ruby on Rails,  
+tmux, Scrapbox, tig,  
 Chocolate mint ice cream
 
 ## Links
