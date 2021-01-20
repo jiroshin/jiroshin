@@ -1,5 +1,5 @@
 # About Me
-NAME: Shinjiro Sugita , 杉田 親次朗
+NAME: Shinjiro Sugita , 杉田 親次朗  
 NICKNAME: jiroshin  
 LOCATION: Tokyo
 
