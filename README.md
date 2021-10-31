@@ -7,5 +7,5 @@ Vim, Go, Chocolate mint ice cream
 
 ## Links
 Scrapbox: [https://scrapbox.io/jiroshin-knowledge/](https://scrapbox.io/jiroshin-knowledge/)  
-Twitter: [https://twitter.com/jiroshin_](https://twitter.com/jiroshin_)  
+Twitter: [https://twitter.com/jiroshin_](https://twitter.com/s_jiroshin)  
 Qiita: [https://qiita.com/jiroshin](https://qiita.com/jiroshin)  
