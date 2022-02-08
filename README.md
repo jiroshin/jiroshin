@@ -1,6 +1,5 @@
 # About Me
 NAME: 杉田 親次朗, Shinjiro Sugita, jiroshin  
-LOCATION: Tokyo
 
 ## What I Like
 Vim, Go, Chocolate mint ice cream
