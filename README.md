@@ -1,5 +1,5 @@
 # About Me
-NAME: SUGITA Shinjiro, jiroshin  
+NAME: SUGITA Shinjiro a.k.a jiroshin  
 
 ## What I Like
 Vim, Go, Chocolate mint ice cream
